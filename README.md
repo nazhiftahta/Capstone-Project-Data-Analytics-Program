@@ -6,7 +6,7 @@ This project contains two labs utilizing the **IBM Granite large language model*
 1. ✅ **Customer Review Sentiment Classification**
 2. 🧠 **Meeting Transcript Summarization**
 
-Both labs are executed using **Google Colab**, focusing on productivity and clarity for internal decision-making at **SmartTechX**, a mid-sized smartphone company.
+Both labs are executed using **Google Colab**, focusing on productivity and clarity for internal decision-making at **Capstone Project**, a mid-sized smartphone company.
 
 ---
 
@@ -115,16 +115,3 @@ os.environ["REPLICATE_API_TOKEN"] = "your-token-here"
 | `classification_lab2.ipynb`       | adjust the parameters to refine the output       |
 
 ---
-
-## 👨‍💼 Scenario Summary
-
-SmartTechX, a \$500M smartphone company, relies on data from customer feedback and internal team meetings to make product and marketing decisions. These labs simulate the role of a **Product Manager** automating workflows to help:
-
-* **Emily Carter** (Head of Product) prioritize updates
-* **Carlos Rivera** (Marketing Director) align strategy with insights
-
----
-
-## 📬 Contact
-
-For questions or feedback, feel free to reach out via GitHub Issues or fork the repo to contribute!
