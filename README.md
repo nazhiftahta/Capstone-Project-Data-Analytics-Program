@@ -1,6 +1,6 @@
-# 📊 SmartTechX AI Assistant – IBM Granite Labs
+# 📊 Capstone Project Data Analytics Program – IBM Granite
 
-Welcome to the **SmartTechX AI Assistant** repository!
+Welcome to the **Capstone Project Data Analytics Program** repository!
 This project contains two labs utilizing the **IBM Granite large language model** via **Replicate API** to automate:
 
 1. ✅ **Customer Review Sentiment Classification**
