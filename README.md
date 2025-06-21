@@ -111,7 +111,7 @@ os.environ["REPLICATE_API_TOKEN"] = "your-token-here"
 
 | File                               | Description                            |
 | ---------------------------------- | -------------------------------------- |
-| `classification_lab1.ipynb.ipynb` | Prompt to clasify and summarize data    |
+| `classification_lab1.ipynb` | Prompt to clasify and summarize data    |
 | `classification_lab2.ipynb`       | adjust the parameters to refine the output       |
 
 ---
